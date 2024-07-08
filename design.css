@@ -1,0 +1,25 @@
+.input-group-container {
+    width: 50%; /* Ekranın %50'sini kaplar */
+    margin: 0 auto; /* Ortaya hizalar */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#header{
+    background-color: chocolate;
+}
+
+#button-addon2{
+    background-color: rgb(213, 213, 213);
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #888;
+}
